@@ -1,5 +1,5 @@
 <h3>Hello</h3>
-<p>현재 백엔드 개발자를 목표로 하고 있습니다.</p>
+<p>Hi!</p>
 <hr>
 <h3>What i learn now?</h3>
 <p align="center">
