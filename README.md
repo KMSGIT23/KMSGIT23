@@ -1,5 +1,5 @@
 <h3>Hello</h3>
-<p>Hi!</p>
+<p></p>
 <hr>
 <h3>What i learn now?</h3>
 <p align="center">
