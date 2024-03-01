@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hello, I'm MinSeong</h2>
+  <h2>Hello, I'm MinSeong:wave:</h2>
   <h2>My Stack</h2>
   <p>
   <img src="https://img.shields.io/badge/Flask-darkgray?style=flat-square&logo=Flask&logoColor=black"> <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=black">
