@@ -6,6 +6,6 @@
 
 <b>My Stack</b>
 <p>
-<img src="https://img.shields.io/badge/Flask-darkgray?style=flat-square&logo=Flask&logoColor=black"> <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Linux-orange?style=flat-square&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-darkgray?style=flat-square&logo=Flask&logoColor=black"> <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=black">
 </p>
 <hr>
