@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?height=300&section=header&text=MinSeong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=MinSeong&fontSize=90)
 
 ----
 
