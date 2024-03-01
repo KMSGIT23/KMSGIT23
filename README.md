@@ -4,7 +4,7 @@
 
 ----
 
-<b>My Stack</b>
+<h3>My Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/Flask-darkgray?style=flat-square&logo=Flask&logoColor=black"> <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=black">
 </p>
