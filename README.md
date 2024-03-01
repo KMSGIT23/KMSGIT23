@@ -1,6 +1,6 @@
 
 
-파이썬으로 알고리즘을 공부하는 것을 매우 좋아합니다. 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ----
 
