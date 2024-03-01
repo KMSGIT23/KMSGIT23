@@ -1,8 +1,3 @@
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=MinSeong&fontSize=90)
-
-----
 <h2>Hello</h2>
 <p>저는 노력하는 개발자 김민성입니다.</p>
 <h2>My Stack</h2>
